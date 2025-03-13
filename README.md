@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Data Engineer | Python & SQL Enthusiast | Spark & Databricks<br><br>🔹 Experienced in building data pipelines and transforming data using Apache Spark<br>🔹 Proficient in Python (3.10) & MySQL<br>🔹 Worked on IPL data engineering projects, including data visualization in Databricks<br>🔹 Passionate about optimizing data workflows and exploring new technologies
+🚀 Data Engineer | Python & SQL Enthusiast | Spark & Databricks<br><br>🔹 Building data pipelines and transforming data using Apache Spark<br>🔹 Proficient in Python (3.10) & MySQL<br>🔹 Worked on IPL data engineering projects, including data visualization in Databricks<br>🔹 Passionate about optimizing data workflows and exploring new technologies
 
 
 ## 🌐 Socials:
